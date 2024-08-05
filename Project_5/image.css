@@ -1,0 +1,36 @@
+
+body{
+    
+    background-image: url('https://img.freepik.com/free-vector/blank-photograph-display-frame-template-with-colorful-confetti_1017-50267.jpg?ga=GA1.1.592935300.1722361522&semt=ais_hybrid');
+
+    background-size: cover; /*Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the image */
+}
+.container{
+    height: 400px;
+    width:400px;
+    background-color:transparent;
+    margin: auto;
+}
+
+.div1{
+    height: 400px;
+    width:450px; 
+    margin: auto;
+    margin-top: 80px;
+    background-color:rgb(15, 15, 16);
+}
+
+img{
+    height: 400px;
+    width:400px;
+}
+
+
+.del2{
+    margin-left: 700px;
+}
+.del3{
+    margin-left: 100px;
+}
